@@ -1,6 +1,6 @@
 # arma3mercenaries Group Teleport Script
 
-![arma3mercenaries.webp](arma3mercenaries.webp)
+![arma3mercenaries_v1.webp](arma3mercenaries_v1.webp)
 
 # Group Teleport Script
 
