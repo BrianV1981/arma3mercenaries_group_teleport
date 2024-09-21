@@ -11,4 +11,4 @@
 * Dynamic safe position calculation
 * On-screen hints for feedback
 
-# [WIKI](https://github.com/BrianV1981/arma3mercenaries/wiki) for more information
+# [WIKI](https://github.com/BrianV1981/arma3mercenaries_group_teleport/wiki) for more information
